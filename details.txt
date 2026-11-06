@@ -1,0 +1,9 @@
+name=input("Enter the name of Employee:")
+id=int(input("Enter the id of Employee:"))
+ph=int(input("Enter the phone no of Employee:"))
+
+print("Name of the Employee:",name)
+print("ID of the Employee:",id)
+print("Phone number of the Employee:",ph)
+
+
