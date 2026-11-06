@@ -1,0 +1,3 @@
+salary=int(input("Enter the salary of employee:"))
+week_wages=((52*12)/salary)
+print("Monthly salary:",week_wages)
